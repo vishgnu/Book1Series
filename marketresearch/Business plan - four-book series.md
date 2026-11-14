@@ -44,7 +44,7 @@ I read "3 month release cycle" as one release every three months after book 1. S
 
 **The three-month gaps are the main risk.** Every documented rapid-release success published every two to four weeks [secondary]. Readers who finish book 1 wait up to three months for book 2. The plan reduces that with a pre-order for the next book, the newsletter and a free promotion of book 1 at each release.
 
-**The money is a pilot, not an income.** The base case earns about **$170 in the first 12 months and $660 in the next 12**, against about **$2,800-4,400 of costs** over 15 months [inference]. What the pilot buys is evidence: whether readers carry on from book 1 to book 4, which audience responds, and how long each book really takes you.
+**The money is a pilot, not an income.** The base case earns about **$170 in the first 12 months and $660 in the next 12**, against about **$3,900-5,200 of costs** over 15 months [inference]. The Claude Ultra subscription is the largest single cost. What the pilot buys is evidence: whether readers carry on from book 1 to book 4, which audience responds, and how long each book really takes you.
 
 ## 1. Where the growth is
 
@@ -171,7 +171,7 @@ With all four books finished, the writing load drops to almost nothing. The spar
 
 | Tool | Use | Cost |
 |---|---|---|
-| Claude subscription | Writing, editing, checks, copy | Pro at $20 a month [primary]. Writing a novel a month may hit Pro's usage limits. A higher tier in months 3-6 costs more [unverified] |
+| Claude subscription | Writing, editing, checks, copy | **Ultra at $200 a month, with 10x Pro's usage**, in months 1-6, so capacity is not a constraint. Pro at $20 a month from month 7, once the books are written [primary, claude.com/pricing, checked 14 November 2026] |
 | Midjourney | Cover art from the template | $10 a month while covers are made |
 | Atticus | Ebook and paperback formatting | $147 once |
 | Website, domain, MailerLite, BookFunnel | Newsletter and reader magnet | About $160 a year [partly unverified] |
@@ -238,7 +238,7 @@ The audiences are set out in `Audience targets - cozy paranormal mystery.md`. Th
 
 | Item | Cost |
 |---|---|
-| Claude subscription | About $300 on Pro, up to about $620 with a higher tier in the writing months [unverified] |
+| Claude subscription: Ultra in months 1-6, Pro in months 7-15 | About $1,380 |
 | Midjourney, Atticus | About $230 |
 | Website, domain, BookFunnel | About $160 |
 | Series cover template | About $500 |
@@ -246,9 +246,13 @@ The audiences are set out in `Audience targets - cozy paranormal mystery.md`. Th
 | Promotion sites, four releases and the collection | About $500-700 |
 | Ads: the Meta test, then Amazon and BookBub from month 14 | About $500-1,000 |
 | Steuerberater | About €500-1,000 [unverified] |
-| **Total** | **About $2,800-4,400** |
+| **Total** | **About $3,900-5,200** |
 
-The lean route skips paid ads and promotion sites and costs about $1,850. A paid proofreader would add about $3,100-5,200 for four books.
+The lean route skips paid ads and promotion sites and costs about $2,900.
+
+- **Keeping Ultra for all 15 months** adds about $1,620, for about $3,000 in subscription costs.
+- **If you also use Ultra for other things**, only the book business's share counts as its cost, and only that share is a business expense for tax [inference; confirm with the Steuerberater].
+- **A paid proofreader** would add about $3,100-5,200 for four books.
 
 ### Revenue [inference]
 
@@ -262,7 +266,7 @@ Each live title earns a flat amount per month from the month after release, plus
 
 **These figures put no value on your time.** They count only cash, because the business is a side hustle beside your day job.
 
-**The pilot loses money in every scenario.** The base case loses about $2,000-3,600 over two years. The flat model ignores launch spikes and promotions, but it is the right order of magnitude for four books by an unknown author. The money comes later, if the pilot shows that readers finish the series and want more.
+**The pilot loses money in every scenario.** The base case loses about $3,100-4,400 over two years. The flat model ignores launch spikes and promotions, but it is the right order of magnitude for four books by an unknown author. The money comes later, if the pilot shows that readers finish the series and want more.
 
 ## 9. If you want faster releases
 
@@ -291,7 +295,7 @@ The read-through targets are planning assumptions, not sourced benchmarks [infer
 | Risk | Why it matters | Counter-measure |
 |---|---|---|
 | Your hours | You are the only human, beside a day job. The high end of the estimate does not fit for long | The month-3 checkpoint, six weeks per book, or a paid proofreader |
-| Your AI partner's limits | Claude has no memory between sessions, can hit usage limits, can make continuity and logic errors, and model updates can shift the voice | Keep everything in the series folder. Start each session from the bible and style guide. The Lektorat and continuity checks catch errors. The sample pages re-anchor the voice |
+| Your AI partner's limits | Claude has no memory between sessions, can make continuity and logic errors, and model updates can shift the voice | Keep everything in the series folder. Start each session from the bible and style guide. The Lektorat and continuity checks catch errors. The sample pages re-anchor the voice |
 | Three-month gaps | Readers may forget the series between books. Rapid-release successes publish every two to four weeks [secondary] | A pre-order for the next book from book 1's launch, a monthly newsletter, a book 1 promotion at each release, the option to move dates forward, and no cliffhangers |
 | Lower earnings for AI-written books | About half the revenue per title on average [primary] | Strong arcs and characters, a thorough Lektorat and a second pass |
 | Reader backlash | 61% of US adults would feel less fulfilled by an AI-written book [primary]. Young readers are the most negative | A truthful public stance. The primary audience is older readers |
@@ -322,4 +326,4 @@ The read-through targets are planning assumptions, not sourced benchmarks [infer
 - **The hours estimate.** It is not measured. Your log for book 1 replaces it at the month-3 checkpoint.
 - **Revenue per title.** It is an assumption. Kindle+ per-page rates after October 2026 are unknown.
 - **The audiences.** They are hypotheses, because no cozy-specific reader data exists.
-- **Unconfirmed points.** Box-set rules, the home-page link in books, BookBub's AI policy, Claude's subscription tiers and output terms, and German tax treatment each need checking before launch.
+- **Unconfirmed points.** Box-set rules, the home-page link in books, BookBub's AI policy, Anthropic's output terms, and German tax treatment each need checking before launch.
