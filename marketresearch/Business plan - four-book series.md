@@ -44,7 +44,7 @@ I read "3 month release cycle" as one release every three months after book 1. S
 
 **The three-month gaps are the main risk.** Every documented rapid-release success published every two to four weeks [secondary]. Readers who finish book 1 wait up to three months for book 2. The plan reduces that with a pre-order for the next book, the newsletter and a free promotion of book 1 at each release.
 
-**The money is a pilot, not an income.** The base case earns about **$170 in the first 12 months and $660 in the next 12**, against about **$3,900-5,200 of costs** over 15 months [inference]. The Claude Ultra subscription is the largest single cost. What the pilot buys is evidence: whether readers carry on from book 1 to book 4, which audience responds, and how long each book really takes you.
+**The money is a pilot, not an income.** The base case earns about **$170 in the first 12 months and $660 in the next 12**, against about **$2,500-3,800 of costs** over 15 months [inference]. Your Claude Ultra subscription is not counted, because you have it anyway. What the pilot buys is evidence: whether readers carry on from book 1 to book 4, which audience responds, and how long each book really takes you.
 
 ## 1. Where the growth is
 
@@ -171,7 +171,7 @@ With all four books finished, the writing load drops to almost nothing. The spar
 
 | Tool | Use | Cost |
 |---|---|---|
-| Claude subscription | Writing, editing, checks, copy | **Ultra at $200 a month, with 10x Pro's usage**, in months 1-6, so capacity is not a constraint. Pro at $20 a month from month 7, once the books are written [primary, claude.com/pricing, checked 14 November 2026] |
+| Claude subscription | Writing, editing, checks, copy | **Ultra, which you have anyway: no extra cost.** It has 10x Pro's usage, so capacity is not a constraint [primary, claude.com/pricing, checked 14 November 2026] |
 | Midjourney | Cover art from the template | $10 a month while covers are made |
 | Atticus | Ebook and paperback formatting | $147 once |
 | Website, domain, MailerLite, BookFunnel | Newsletter and reader magnet | About $160 a year [partly unverified] |
@@ -238,7 +238,7 @@ The audiences are set out in `Audience targets - cozy paranormal mystery.md`. Th
 
 | Item | Cost |
 |---|---|
-| Claude subscription: Ultra in months 1-6, Pro in months 7-15 | About $1,380 |
+| Claude subscription | $0 extra. You have Ultra anyway |
 | Midjourney, Atticus | About $230 |
 | Website, domain, BookFunnel | About $160 |
 | Series cover template | About $500 |
@@ -246,12 +246,11 @@ The audiences are set out in `Audience targets - cozy paranormal mystery.md`. Th
 | Promotion sites, four releases and the collection | About $500-700 |
 | Ads: the Meta test, then Amazon and BookBub from month 14 | About $500-1,000 |
 | Steuerberater | About €500-1,000 [unverified] |
-| **Total** | **About $3,900-5,200** |
+| **Total** | **About $2,500-3,800** |
 
-The lean route skips paid ads and promotion sites and costs about $2,900.
+The lean route skips paid ads and promotion sites and costs about $1,550.
 
-- **Keeping Ultra for all 15 months** adds about $1,620, for about $3,000 in subscription costs.
-- **If you also use Ultra for other things**, only the book business's share counts as its cost, and only that share is a business expense for tax [inference; confirm with the Steuerberater].
+- **Tax:** the share of your Ultra subscription used for the books may still count as a business expense, even though it adds no cash cost [inference; confirm with the Steuerberater].
 - **A paid proofreader** would add about $3,100-5,200 for four books.
 
 ### Revenue [inference]
@@ -266,7 +265,7 @@ Each live title earns a flat amount per month from the month after release, plus
 
 **These figures put no value on your time.** They count only cash, because the business is a side hustle beside your day job.
 
-**The pilot loses money in every scenario.** The base case loses about $3,100-4,400 over two years. The flat model ignores launch spikes and promotions, but it is the right order of magnitude for four books by an unknown author. The money comes later, if the pilot shows that readers finish the series and want more.
+**The pilot loses money in every scenario.** The base case loses about $1,700-3,000 over two years. The flat model ignores launch spikes and promotions, but it is the right order of magnitude for four books by an unknown author. The money comes later, if the pilot shows that readers finish the series and want more.
 
 ## 9. If you want faster releases
 
