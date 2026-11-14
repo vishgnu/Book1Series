@@ -148,6 +148,8 @@ Tool prices were verified on 14 November 2026 except those marked [unverified]. 
 
 Paid marketing works only once there is a series to read through, so it follows the catalogue.
 
+**Who to aim at:** `Audience targets - cozy paranormal mystery.md` sets out the two target audiences, women 45-75 who read mysteries and women 25-45 who read fantasy, with channels and an ad test to choose between them.
+
 ### Months 1-2, before launch
 
 - Build the author website and the newsletter.
