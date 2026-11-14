@@ -128,7 +128,7 @@ Build the list during the hand check of the category in weeks 1-2. Note which au
 
 ## 5. Testing the audiences
 
-The age hypotheses can only be tested on Meta. Run the test from month 5, once four or more books are live [inference]:
+The age hypotheses can only be tested on Meta. Run the test around book 2's release in month 8, with book 1 promoted and book 2 just out [inference]:
 
 1. **Set up four ad sets** with identical ads, women only, United States: ages 25-44, 45-54, 55-64 and 65+. Use the original audience settings so the age limits hold.
 2. **Spend $5 a day on each for 10 days**, all pointing to book 1. That totals about $200, within the ads budget.
