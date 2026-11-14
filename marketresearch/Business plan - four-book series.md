@@ -13,8 +13,8 @@ Earlier versions are in the git history: a weekly novella, a monthly human-writt
 | 1-2 | Series arc, characters and worldbuilding. Business setup |
 | 3 | Book 1 written and edited |
 | 4 | Book 2 written and edited |
-| **5** | **Book 1 launches.** Books 2, 3 and 4 go on pre-order. Book 3 written and edited |
-| 6 | Book 4 written and edited. The whole series is finished |
+| **5** | **Book 1 launches**, with book 2 on pre-order. Book 3 written and edited, then on pre-order |
+| 6 | Book 4 written and edited, then on pre-order. The whole series is finished |
 | 8 | Book 2 releases |
 | 11 | Book 3 releases |
 | 14 | Book 4 releases |
@@ -24,9 +24,11 @@ I read "3 month release cycle" as one release every three months after book 1. I
 
 **AI writes, and you decide the story and the quality.** Each novel is 60,000-70,000 words. AI writes it from your arc, characters and chapter plan. You review it as Lektor, and your partner applies your corrections with AI, proofreads and publishes. Every book is disclosed to KDP as AI-generated text. Copyright covers your arc, characters, arrangement and the lines you rewrite, but not the AI prose [primary].
 
-**The finished series is a safety net.** All four books are written before book 2 comes out. A release can't slip, and books 2-4 can go on pre-order the day book 1 launches. Readers who finish book 1 can order the next book straight away.
+**Pre-orders open only for a book that is 90% done.** "90%" means the Lektorat is finished and the corrections are applied, leaving only the final proofread and formatting. Book 2 meets that at book 1's launch, book 3 at the end of month 5 and book 4 at the end of month 6. Readers who finish book 1 can order book 2 straight away, and no release can slip.
 
-**The three-month gaps are the main risk.** Every documented rapid-release success published every two to four weeks [secondary]. No study has measured what longer gaps cost, but readers who finish book 1 have to wait up to three months for book 2. The plan reduces that with pre-orders, the newsletter and a free promotion of book 1 at each release.
+**Your time is free, and the hours have to fit around a day job.** The plan counts only cash, so it puts no money value on your hours or your partner's. Hours still limit what can be done. Your share is about 9-15 hours a week in the writing months, which fits evenings and weekends. Your partner's is about 12-19.
+
+**The three-month gaps are the main risk.** Every documented rapid-release success published every two to four weeks [secondary]. No study has measured what longer gaps cost, but readers who finish book 1 have to wait up to three months for book 2. The plan reduces that with a pre-order for the next book, the newsletter and a free promotion of book 1 at each release.
 
 **The money is a pilot, not an income.** Four books cannot earn much on their own. The base case earns about **$170 in the first 12 months and $660 in the next 12**, against about **$3,100-4,200 of costs** over 15 months [inference]. What the pilot buys is evidence: whether readers carry on from book 1 to book 4, which audience responds, and how long each book really takes. Section 10 sets the numbers that decide whether a second series, a faster schedule or a stop follows.
 
@@ -112,7 +114,7 @@ This is your phase. By the end of month 2, the series bible should contain every
 | Chapter plan, character updates | You | 8 |
 | Lektorat: full read and edit notes | You | 27-52 |
 | Checking the revised passages | You | 5 |
-| **You, per month** | | **About 40-65 hours, or 9-15 hours a week** |
+| **You, per month** | | **About 40-65 hours, or 9-15 hours a week beside the day job** |
 | AI drafting and plan checks | Partner | 11-22 |
 | Applying the Lektorat changes with AI | Partner | 5-10 |
 | Proofread | Partner | 17-26 |
@@ -127,7 +129,7 @@ The workflow for each book:
 3. You read the whole draft as Lektor and mark structure, clue fairness, character voice and every flat or generic passage. You rewrite the most important lines yourself: dialogue, jokes and the ending.
 4. Your partner applies your notes with AI, and you check the changed passages.
 5. Your partner runs an AI grammar pass, then a full human proofread.
-6. Your partner formats the book and uploads it as the final file for its pre-order.
+6. Your partner formats the book. Once the Lektorat corrections are in, the book counts as 90% done and its pre-order can open. The final file goes up after the proofread.
 
 **Quality gates.** A book is finished only if it passes all five:
 
@@ -165,7 +167,11 @@ With all four books finished, the writing load drops to almost nothing. The spar
 
 **How the plan uses them:**
 
-- **At book 1's launch in month 5:** set books 2, 3 and 4 on pre-order for months 8, 11 and 14. Upload their final files early, as each one finishes its second Lektorat pass. Nothing can then miss a deadline.
+- **Your rule: a pre-order opens only when that book is 90% done.** The Lektorat is finished and the corrections are applied. Only the final proofread and formatting remain.
+- **At book 1's launch in month 5:** book 2 is finished, so set its pre-order for month 8.
+- **End of month 5:** book 3 reaches 90%, so set its pre-order for month 11.
+- **End of month 6:** book 4 reaches 90%, so set its pre-order for month 14.
+- **Upload each final file weeks before its deadline**, after the second Lektorat pass. Nothing can then miss a deadline.
 - **Every book's back matter** links to the next book's pre-order and to the series page. KDP allows links to other books in the series [primary].
 - **Book 1 itself is not a pre-order.** It is your first title, so KDP would require a manuscript at sign-up, and a first title gets the longer 5-day review. Publish it directly.
 
@@ -234,13 +240,15 @@ Each live title earns a flat amount per month from the month after release, plus
 | Base | $12 | About $170 | About $660 | About $60 |
 | High | $40 | About $580 | About $2,200 | About $190 |
 
+**These figures put no value on your time.** They count only cash, because the business is a side hustle beside day jobs.
+
 **The pilot loses money in every scenario.** The base case loses about $2,500-3,500 over two years. The flat model ignores launch spikes and promotions. It is still the right order of magnitude for four books by an unknown author. The money comes later, if the pilot shows that readers finish the series and want more.
 
 ## 9. If you want faster releases
 
 If book 1 does well, bring book 2 forward. KDP allows moving a pre-order's release date earlier once the final file is reviewed [primary]. The trigger is in the checkpoints below.
 
-If "3 month release cycle" meant releasing all of books 2-4 within three months of launch, set their pre-orders for months 6, 7 and 8 instead. The writing schedule stays the same, the series is complete by month 8, and ads can start in month 8. Revenue arrives about six months earlier, and readers never wait more than a month. The evidence on rapid release favours this version [secondary].
+If "3 month release cycle" meant releasing all of books 2-4 within three months of launch, set their release dates for months 6, 7 and 8 instead. Each pre-order still opens only when that book is 90% done, which the writing schedule allows. The writing schedule stays the same, the series is complete by month 8, and ads can start in month 8. Revenue arrives about six months earlier, and readers never wait more than a month. The evidence on rapid release favours this version [secondary].
 
 ## 10. Checkpoints
 
@@ -249,7 +257,7 @@ If "3 month release cycle" meant releasing all of books 2-4 within three months 
 | End of month 2 | Series bible | Arc, characters, world, style guide and the book 1 chapter plan are done. Each book's mystery has been checked for fair clues | Take an extra month. Don't start writing on a weak arc |
 | End of month 4, before launch | Books 1 and 2 | Both are finished and you would sign them. Each took you 65 hours or less and your partner 80 or less | Fix the workflow before launch. Usually the chapter plan is too loose or the drafting set-up needs changing |
 | Month 7, 60 days after book 1 | Book 1's reviews and rating, pre-orders for book 2, newsletter sign-ups, comments that the prose "sounds AI" | Rating at 4.0 or more. Pre-orders and sign-ups growing. No pattern of AI complaints | Rework book 1's blurb, cover and opening. If AI complaints appear, rewrite dialogue and key scenes in books 2-4 before their final files go up |
-| Month 7, strong case | Book 1 is selling or being read daily | Book 2 pre-orders are building | **Bring book 2 forward** to month 6 or 7, then shorten the later gaps too |
+| Month 7, strong case | Book 1 is selling or being read daily | Book 2 pre-orders are building | **Bring book 2 forward** to within a few weeks. It is already finished. Then shorten the later gaps too |
 | Month 10, 60 days after book 2 | Read-through from book 1 to book 2. Results of the Meta age test | Read-through at 40% or more | Plan what comes next for the audience that responded. If almost nobody reads on, change the concept for the next series |
 | Month 15-16, series complete | Read-through to book 4, revenue per reader, total hours | Read-through holds through the series, and both of you want to go on | Keep the series on sale with low-cost promotion and stop new production |
 
@@ -261,11 +269,11 @@ The read-through targets are planning assumptions, not sourced benchmarks [infer
 
 | Risk | Why it matters | Counter-measure |
 |---|---|---|
-| Three-month gaps | Readers may forget the series between books. Rapid-release successes publish every two to four weeks [secondary] | Pre-orders from day one, a monthly newsletter, a book 1 promotion at each release, the option to move dates forward, and no cliffhangers |
+| Three-month gaps | Readers may forget the series between books. Rapid-release successes publish every two to four weeks [secondary] | A pre-order for the next book from book 1's launch, a monthly newsletter, a book 1 promotion at each release, the option to move dates forward, and no cliffhangers |
 | Lower earnings for AI-written books | About half the revenue per title on average [primary] | Strong arcs and characters, a thorough Lektorat and a second pass |
 | Reader backlash | 61% of US adults would feel less fulfilled by an AI-written book [primary]. Young readers are the most negative | A truthful public stance. The primary audience is older readers |
 | KDP quality enforcement and account loss | Repeated content is banned. Account loss can forfeit royalties [primary] | The reuse check, honest disclosure and clean traffic |
-| Missing a pre-order deadline | A second miss blocks pre-orders for 6 months [primary] | All books are finished before their pre-orders are set. Upload final files weeks early |
+| Missing a pre-order deadline | A second miss blocks pre-orders for 6 months [primary] | Your 90% rule. Each book is finished long before its release date. Upload final files weeks early |
 | Weak copyright | The AI prose is not protected [primary] | Keep the log. The arc, characters and world are your asset |
 | Courses and services | The FTC made Publishing.com pay $1.5M over false earnings claims [primary] | Buy no courses or "done for you" services |
 
@@ -273,6 +281,10 @@ The read-through targets are planning assumptions, not sourced benchmarks [infer
 
 - **Partnership.** Two people running a business together usually form a German civil partnership (GbR). Put the split of costs, revenue, rights to the pen name, characters and world, and the exit terms in writing [unverified; confirm with the Steuerberater].
 - **Tax.** When AI writes the prose, it is doubtful whether the business counts as freelance writing ("schriftstellerisch") under §18 EStG or as a trade (Gewerbe) [primary statute; open question]. That affects trade tax and bookkeeping, so it is the first question for the Steuerberater. A pilot that loses money for two years may also draw questions about whether it is a hobby rather than a business ("Liebhaberei") [inference]. A written plan with checkpoints like this one helps show intent to make a profit.
+- **Side hustle beside a day job.**
+  - Check your employment contract for rules on side work (Nebentätigkeit). Many contracts require telling the employer. Your employer can object only in limited cases, such as competition or harm to your main job [unverified; general German employment practice].
+  - Profit or loss from the books goes into your income tax return alongside your salary.
+  - A loss can reduce the tax on your salary, but only if the Finanzamt accepts the business as profit-seeking rather than a hobby (Liebhaberei) [inference; confirm with the Steuerberater]. Keep this plan, the checkpoints and the cost records as evidence.
 - **VAT.** The small-business exemption applies up to €25,000 turnover in the prior year and €100,000 in the current year [primary].
 - **US tax.** Complete the KDP tax interview with a W-8BEN form. Germany's treaty rate on US royalties is 0% [primary].
 - **EU AI Act.** It does not apply to fiction [primary, Commission guidelines].
@@ -281,6 +293,8 @@ The read-through targets are planning assumptions, not sourced benchmarks [infer
 
 - **The release cycle reading.** The plan reads "3 month release cycle" as one release every three months. Section 9 covers the other reading.
 - **The role split.** It assumes your partner runs drafting, production and marketing.
+- **Time.** Your and your partner's hours are free. They limit capacity but carry no cost in the money section.
+- **Pre-orders.** A pre-order opens only when the book is 90% done: Lektorat finished and corrections applied.
 - **The hours estimate.** It is not measured. Your logs for books 1 and 2 replace it at the month-4 checkpoint.
 - **Revenue per title.** It is an assumption. Kindle+ per-page rates after October 2026 are unknown.
 - **The audiences.** They are hypotheses, because no cozy-specific reader data exists.
