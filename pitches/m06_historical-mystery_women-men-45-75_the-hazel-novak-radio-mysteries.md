@@ -13,7 +13,7 @@
 **The series engine.** Each murder turns on one wrong sound, never meaning the same thing twice. Her ear opens a case; proof a jury can hold closes it. After Book 1, strangers bring her sounds they cannot explain.
 
 **The four-book arc.**
-1. *The Second Door* — An actor was on air when his wife died, but the recording holds two door slams and Hazel made one; cleared, she finds Gus's last reel: the crash was faked.
+1. *One Slam Too Many* — An actor was on air when his wife died, but the recording holds two door slams and Hazel made one; cleared, she finds Gus's last reel: the crash was faked.
 2. *The Wrong Bell* — An actress dead Monday speaks on Tuesday's ransom call, over the bell of a streetcar line closed since spring; Anton knows the car, and the banker's wife admits she lied.
 3. *Footsteps on Gravel* — A plant watchman dies, telephone off the hook; the operator heard footsteps on gravel, the plant yard is brick, and Hazel learns Gus was not alone on the stairs.
 4. *The Clock in Studio A* — An announcer dies after recording who was with Gus; Hazel is accused of splicing the tape until she hears the studio clock ticking unbroken, proof it was never cut.

@@ -15,7 +15,7 @@
 **The four-book arc.**
 1. *Wisent Winter* — Hanka treats two wisent snared in survey cable, traces it to Jutta's crew, and still signs their honest readings; the calving ground is released and returners gain votes.
 2. *Aurochs Spring* — A breeder claims nine calves; Hanka and Deniz prove them wild-born by blood and milk, and she lets Tomasz leave a tenth, already sold, off the count.
-3. *Wild Horse Summer* — A campfire lights dry peat; Hanka breaches a dike without orders to save the horses, counts the flooded nests, and names her mother as the camper.
+3. *Konik Summer* — A campfire lights dry peat; Hanka breaches a dike without orders to save the horses, counts the flooded nests, and names her mother as the camper.
 4. *Bear Autumn* — Hanka moves the camps, not the bear trailing the surveyors; snared hair and bar-worn teeth show it was pen-raised, and Tomasz released it to scare them off.
 
 *Running thread:* Whether the Charter survives the year-end vote. Book 4 renews it for ten years: Jutta's sluices built, Zerbow's church hill returned to Renate, Tomasz's badge gone, Hanka demoted after naming her own silence.

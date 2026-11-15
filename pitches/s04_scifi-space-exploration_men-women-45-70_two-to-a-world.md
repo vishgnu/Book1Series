@@ -1,4 +1,4 @@
-# The Closed Worlds
+# Two to a World
 
 **Genre:** Science fiction (space exploration) · **Readers:** Men and women 45–70 · **Series:** four books, 60,000–70,000 words each, one complete posting per book
 
@@ -15,7 +15,7 @@
 **The four-book arc.**
 1. *The Thirty-Year Reef* — On Orrin an under-ice reef blooms nine years early; Walt seals its tide crack as ordered, starves it, finds earlier blooms in rock growth bands, and reopens it: breach one.
 2. *The Walking Forest* — On Tamsin a forest that walks after groundwater stops; orders say water it, June waters one grove, it alone fails to seed, and the board rewrites them: no breach.
-3. *The Night Singer* — On Halden the logbooks describe a night chorus no recorder holds; June finds the recorder filters song as noise, rewires it and won't restore it: breaches two and three.
+3. *The Night Chorus* — On Halden the logbooks describe a night chorus no recorder holds; June finds the recorder filters song as noise, rewires it and won't restore it: breaches two and three.
 4. *The Quiet Basin* — On Selah, June's salt lake, Walt's levels show a survey well draining the basin; they cap it with Strand watching: breach four.
 
 *Running thread:* can anyone else be shown what June saw? Book 3's entry "threads at dawn" points to Selah. There June lets Walt's numbers stand, and three people watch brine life hatch and leave on silk, once in forty-two years. Strand still calls "mirage" right for a blank recorder, cancels the breach because the Service drilled the well, and stops the pulping.

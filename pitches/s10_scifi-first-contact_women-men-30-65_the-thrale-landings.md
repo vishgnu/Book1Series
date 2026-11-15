@@ -8,7 +8,7 @@
 
 **The lead.** Tobias spent thirty years appraising seized antiquities by wear and weight. He trusts a thing's history, not its making, so anything new reads as fake. The flag was his choice. He told his daughter, a shoemaker, she sells copies; her letters sit unanswered. He talks like a condition report: his marriage is "stable, with old repairs."
 
-**The cast.** Saoirse Lim, 31, textile conservator, unpicks her own stitching nightly and asks what they can make. Renata Voss, 44, treaty indemnity officer, demoted for insuring the flag. Hana Kovač, 52, cook, throws pots and runs the betting pool Tobias has never won.
+**The cast.** Saoirse Lim, 31, textile conservator, unpicks her own stitching nightly and asks what they can make. Renata Falk, 44, treaty indemnity officer, demoted for insuring the flag. Hana Kovač, 52, cook, throws pots and runs the betting pool Tobias has never won.
 
 **The series engine.** Tobias and Saoirse test each candidate against one rule: the senders answer what has been used, never what claims. Each new object breaks part of it. Every ending changes who may sign or block the next reply.
 

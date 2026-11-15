@@ -15,8 +15,8 @@
 **The four-book arc.**
 1. *First in Time* — April: the old Pruitt farm's buyer lies dead in his potato cellar, Marty's padlock cut, yet the gauge chart says the water came six hours after he died.
 2. *Call on the River* — July: ordered to lock out her brother Gene, Marty finds his neighbor dead beside a flume shaved to cheat the gauge; her log clears Gene, who stops speaking to her.
-3. *Dead Storage* — Harvest: a dairy pond filling at night gives up Vern Pruitt, missing since 2001, but Marty's delivery sheets show the pond stood dry until 2003, so someone moved him.
-4. *Forfeit* — Winter: Hinckley lies under ice at a locked headgate, his tins emptied; Marty's log says only her key opened it, and Gene, silent since July, drives her to the courthouse.
+3. *Duty of Water* — Harvest: a dairy pond filling at night gives up Vern Pruitt, missing since 2001, but Marty's delivery sheets show the pond stood dry until 2003, so someone moved him.
+4. *Futile Call* — Winter: Hinckley lies under ice at a locked headgate, his tins emptied; Marty's log says only her key opened it, and Gene, silent since July, drives her to the courthouse.
 
 *Running thread:* In 1911 someone back-dated the Aldecoa claim ahead of the ditch that fed the Pruitt farm; Marty enforced that order in 2001. In book 4 she says under oath her shutoff was wrong.
 

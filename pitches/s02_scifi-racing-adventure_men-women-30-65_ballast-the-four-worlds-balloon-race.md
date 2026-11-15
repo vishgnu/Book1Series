@@ -13,7 +13,7 @@
 **The series engine.** Every book is one race: a route, weather that breaks the plan, a hard choice, a placing, one plain answer about the tear. Pallas is four hundred miners on one asteroid; a purse buys a year's air. Members vote on each entry.
 
 **The four-book arc.**
-1. *Acid Sky: The Venus Race* — Acid eats the vent line; Hesper patches it aloft, Marigold places third, and the old wreck shows the tear began in bad cloth, not Anselm's wind.
+1. *Acid Lap: The Venus Race* — Acid eats the vent line; Hesper patches it aloft, Marigold places third, and the old wreck shows the tear began in bad cloth, not Anselm's wind.
 2. *Cold Lift: The Titan Race* — Marigold gives up the lead to lift a downed crew off a methane sea, places second; their rigger says Jonah knew the cloth was condemned.
 3. *Blue Shear: The Neptune Race* — Hesper's patch splits at the fastest band; Anselm turns back, finishes fifth, and Dray names who bought the cloth: Pallas.
 4. *Ring Shadow: The Saturn Race* — In ring-shadow cold, Anselm calls the fast-band crossing he has refused since the tear, Dita signs the last ore, Marigold wins, and her vote makes Pallas report itself.

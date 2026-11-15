@@ -118,7 +118,24 @@ Rewriting a text many times with a language model has known failure modes. Each 
 
 The run used 885 agent calls for the first drafts and the ten rounds, 83 for the final checks, and about 40 more for two pilot runs and the seed audit. No call failed.
 
-Results are added here when all rounds have run.
+- **Rewrites.** 200 rewrites were attempted across 20 pitches and 171 were accepted by the gate (86%).
+
+| Round | Focus | Rewrites accepted | Discarded for length | Critics' mean score |
+|---|---|---|---|---|
+| 1 | First contact | 20 of 20 | 0 | 7.6 |
+| 2 | Originality | 18 of 20 | 0 | 7.4 |
+| 3 | Series engine | 17 of 20 | 0 | 7.5 |
+| 4 | Character | 19 of 20 | 1 | 7.5 |
+| 5 | World and logic | 11 of 20 | 0 | 7.3 |
+| 6 | Midpoint cold read | 19 of 20 | 0 | 7.5 |
+| 7 | Market | 18 of 20 | 0 | 7.4 |
+| 8 | Production and risk | 15 of 20 | 0 | 7.6 |
+| 9 | Line edit | 17 of 20 | 0 | 7.5 |
+| 10 | Greenlight | 17 of 20 | 0 | 7.8 |
+
+- **Final check.** In the blind comparison, the final version beat the first draft for 20 of 20 pitches (a majority of three seats), and won 59 of 60 individual votes. The panel's mean score moved from 7.0 for first drafts to 7.9 for final versions.
+- **Title checks.** clear: 12, major: 5, minor: 3. Pitches with a major collision: m06, m10, s01, s02, s04.
+- **Retitled after the check.** m06, m10, s01, s02, s03, s04, s09: every title with a major collision, and two with a minor one, was replaced by hand. Each new title was searched once and came up clear. The logs list the changes.
 
 ## 10. Limits
 

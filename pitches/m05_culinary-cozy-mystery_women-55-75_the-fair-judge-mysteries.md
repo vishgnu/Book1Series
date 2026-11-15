@@ -13,13 +13,13 @@
 **The series engine.** Each book is one fair: judging, a death, and one numbered entry that contradicts someone's story. Every taste clue is also visible to the reader: in book 1 the "homemade" jam sets clear as factory jelly, and its lid carries price-sticker glue. Supper and two or three recipes close each book. Ninety fairs in the region leave room for more summers.
 
 **The four-book arc.**
-1. *Jam No. 41 Under the Ferris Wheel* — Ride inspector Walt dies under the Ferris wheel; Dot wrongly blames operator Rita Dahl, apologizes with pie, and keeps Walt's notebook.
+1. *Jam No. 41 Under the Ferris Wheel* — Ride inspector Lyle dies under the Ferris wheel; Dot wrongly blames operator Rita Dahl, apologizes with pie, and keeps Lyle's notebook.
 2. *The Lard in Pie No. 117* — A fair-board man dies in the milk house; leaf lard clears the ride crew and names the dairy superintendent, who watered the milk; Harlan's chair moves closer.
 3. *Sourdough No. 9 and the Empty Booth* — The fair announcer, Harlan's fishing partner, dies; Kayla spots one oven's scorched corner on two winning loaves, exposing the baker he caught entering twice.
 4. *Butter No. 302, Best in Show* — The State Fair treasurer dies beside the butter sculpture; Dot names Chairman Rask as the killer, then asks Kayla for a pie.
 
-*Running thread:* Why Walt's notebook lists blue-ribbon numbers: officials win ribbons with entries Bev bakes, then sign Rask's ride inspections unread. Bev never knew what the ribbons bought; she tells the sheriff and keeps her seat at supper.
+*Running thread:* Why Lyle's notebook lists blue-ribbon numbers: officials win ribbons with entries Bev bakes, then sign Rask's ride inspections unread. Bev never knew what the ribbons bought; she tells the sheriff and keeps her seat at supper.
 
-**Why readers come back.** A week at the fair without the heat: dill pickles held to the light, the percolator at five. What carries over is the weeks before Seattle, whether Kayla bakes again, and the next number in Walt's notebook.
+**Why readers come back.** A week at the fair without the heat: dill pickles held to the light, the percolator at five. What carries over is the weeks before Seattle, whether Kayla bakes again, and the next number in Lyle's notebook.
 
 **What makes it different.** Dot solves by taste, and the reader gets the same clue by eye. Her village is a fairground on Monday and an empty field the Monday after.

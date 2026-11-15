@@ -13,7 +13,7 @@
 **The series engine.** Every book is one ship and one question: why she did what she did. The crew boards with seventy-two hours of supplies and a deadline set by weather, fuel or a coastline. Salt and cheap maintenance silence another ship each week; a few are sent astray on purpose.
 
 **The four-book arc.**
-1. *Dead Slow* — An LNG carrier circles off Namibia, burning her cargo on orders under the Halcyon Dawn's dead number; Etch anchors her whole, and the charterer puts a lien on his house.
+1. *Not Under Command* — An LNG carrier circles off Namibia, burning her cargo on orders under the Halcyon Dawn's dead number; Etch anchors her whole, and the charterer puts a lien on his house.
 2. *Cold Cargo* — A container ship lies dark off Madagascar ahead of a cyclone; Teo finds the Halcyon Dawn's electrician living in a cold box, and Etch brings him off alive.
 3. *Two Helms* — Two control rooms and two navies contest a tanker bound for the Malacca Strait; Adaeze steers by hand pump, and Mirren traces the forged orders to her Rotterdam watch chief.
 4. *The Halcyon Dawn* — Etch's old ship drifts toward Tasmania; he lets his crew countersign, lands her, and finds his chief mate renting out her dead number to pay the eleven Etch put ashore.

@@ -13,10 +13,10 @@
 **The series engine.** Every book is one transit: one ship, a crew in trouble, a closing lane. Maren solves the navigation with burns, margins and timing, and settles the quarrel aboard only through heading, speed and arrival time.
 
 **The four-book arc.**
-1. *Outer Marker* — With the liner *Corazon Vale*'s captain dying and the Comb closing nine minutes early, Maren times the last burn so First Officer Solano takes command with the ship clear.
+1. *Boarding Ground* — With the liner *Corazon Vale*'s captain dying and the Comb closing nine minutes early, Maren times the last burn so First Officer Solano takes command with the ship clear.
 2. *Dead Freight* — Maren nurses a yawing grain hauler past the Comb and docks two hours late, on purpose, the delay she refused the *Anna Reyes*, so eleven witnesses to table-rigging reach Sorensen.
 3. *No Register* — Maren threads an unmarked warship under Hob; when its captain demands she erase the radar record of a tender beside the moonlet, she files it.
-4. *Inner Marker* — Maren learns Castellan ordered the burns, withholds the conn, a pilot's one lever, until the logs reach every flag, then brings the *Corazon Vale* through the narrowest lane on record.
+4. *Pilot Away* — Maren learns Castellan ordered the burns, withholds the conn, a pilot's one lever, until the logs reach every flag, then brings the *Corazon Vale* through the narrowest lane on record.
 
 *Running thread:* who is nudging Hob, and are they right; book 4 answers that the Pilot Service has pushed it for forty years so no flag can own the lane, and Maren judges the aim right, the secrecy wrong.
 
