@@ -2,24 +2,24 @@
 
 **Genre:** Techno-mystery · **Readers:** Men and women 40–65 · **Series:** four books, 60,000–70,000 words each, one complete case per book
 
-**Logline.** Elias Brandt, 52, a structural engineer blamed for a parking ramp collapse that killed two, signs the cause when things fall on the Duluth waterfront. In every book someone is dead, and the metal shows the accident had an author.
+**Logline.** Structural engineer Elias Brandt, 52, sealed a drawing that killed two. Now, from a rented bay on the Duluth waterfront, he, a metallurgist and a retired crane operator tell insurers why things fell. Each time, the metal shows the accident had an author.
 
-**The setting.** Duluth and the working shore of Lake Superior: ore docks, grain elevators, ski hills and small dams, most built before 1970 and kept up on town budgets through winters of 30 below. One firm, Northline Testing, inspected most of it, and Elias's ramp. Brandt Forensic rents Bay 6 of a former ship chandlery with a ten-ton crane. The rule: no insurer pays until an engineer signs a cause, and the signature decides who pays.
+**The setting.** Duluth and Lake Superior's working shore: ore docks, grain elevators, ski hills and small dams, most built before 1970 on town budgets. One firm, Northline Testing, inspected most of it, and the ramp Elias sealed. Brandt Forensic rents Bay 6 of a former ship chandlery. The rule: no insurer pays until an engineer signs a cause.
 
-**The lead.** Elias Brandt, 52, was a principal at Thorsby Vance in Minneapolis. He warned in writing that a connection in the Carver Street ramp was unsafe. It fell, killing two, and the stamped drawing on file showed his approval. Someone changed the sheet; he wants the original. It cost him his partnership, and he doubts he pushed hard enough. He trusts fracture surfaces over paperwork and talks in short sentences, units attached.
+**The lead.** Elias Brandt was a principal at Thorsby Vance in Minneapolis. He warned in writing that a Carver Street ramp connection was unsafe, then sealed a late revision of that sheet unchecked. The ramp fell, killing two. He served a one-year suspension, gave up his partnership, and wants to know who drew the change. He trusts fracture surfaces over paperwork and talks in short sentences, units attached.
 
-**The cast.** Naomi Adeyemi, 29, a metallurgist with a van-mounted lab and no patience. Dutch Kowalczyk, 68, a retired crane operator who knows how steel really goes up. Renee Halloran, claims manager at Lakehead Mutual, hires them and fights every invoice. Martin Vance, Elias's old partner, still takes his calls.
+**The cast.** Naomi Adeyemi, 29, a metallurgist who quit Northline's lab; her van does hardness and spectrometry; microscope work goes out, five days and a bill. Dutch Kowalczyk, 68, a retired crane operator who knows how steel really goes up. Renee Halloran, claims manager at Lakehead Mutual, hires them and fights every invoice. Martin Vance, Elias's old partner, still takes his calls.
 
-**The series engine.** Every book opens on a failure ruled an accident and a client who wants that signed in 60 days. The team recovers the parts, tests them and rebuilds the sequence; the reader sees each bolt stamp, fracture face and inspection log as they do. The evidence names a person with money at stake, who fights the finding. Old structures keep failing, so cases keep coming.
+**The series engine.** Every book opens on a failure ruled an accident and a client who wants that signed in 60 days. Elias takes only jobs where Northline signed the last inspection. The team recovers the parts, tests them and rebuilds the sequence; the reader sees the evidence as they do. Each case breaks on something one trade alone could read.
 
 **The four-book arc.**
-1. *Factor of Safety* — A ski-lift tower falls at Sawbill Ridge; forged grade stamps on its anchor bolts lead to an owner who bought cheap steel, and show Elias how approved paperwork gets swapped.
-2. *Load Path* — A grain bin splits in Superior; a weld inspection signed on a rain day exposes a co-op manager buying passes, and names an inspector from Elias's ramp.
-3. *Fatigue Limit* — An ore-dock conveyor drops in Two Harbors; beach marks on its shaft prove the seller hid the cracking, and a fabricator's files hold the ramp's original drawings.
-4. *Single Point of Failure* — A spillway gate tears loose at Tamarack Dam; copied grease logs expose a contractor billing for work never done, and Elias proves who revised the sealed sheet.
+1. *Factor of Safety* — A ski-lift tower falls at Sawbill Ridge; Naomi's van spectrometer proves the anchor bolts are not the grade stamped, and an owner who bought cheap steel loses his claim.
+2. *Load Path* — A grain bin splits in Superior; an honest crew's cold repair weld was passed by an inspection signed on a rain day, and Elias must name men who meant no harm.
+3. *Fatigue Limit* — An ore-dock conveyor drops in Two Harbors; beach marks show an old, slow shaft crack, until Dutch reads chain scars showing someone loaded it to finish the job: Lakehead's largest policyholder.
+4. *Single Point of Failure* — A spillway gate tears loose at Tamarack Dam; copied grease logs expose a contractor billing for work never done, and Northline's subpoenaed files show who drew the change Elias sealed.
 
-*Running thread:* Which of three people with access altered sheet S-401 of the Carver Street ramp after sealing, and how; book 4 answers both.
+*Running thread:* Who drew the late change to sheet S-401, and why Northline passed the connection as built; book 4 answers both.
 
-**Why readers come back.** You watch a failure taken apart by people who know their trades, in plain language, holding the same evidence they do. Every book closes its case, no cliffhanger. The violence is over before page one; what remains is the proof.
+**Why readers come back.** People who know their trades take a failure apart in plain language. Every book closes its case. The violence is over before page one; what remains is the proof.
 
-**What makes it different.** The detectives are an engineer, a metallurgist and a crane operator; the clues are a bolt stamp, a fracture face, a rain gauge record. No hacker, no gunfight. The reader learns to read steel.
+**What makes it different.** Three trades do the detecting; the clues are a bolt stamp, a fracture face, a rain gauge record. The lead was not framed: he signed the sheet. No hacker, no gunfight.

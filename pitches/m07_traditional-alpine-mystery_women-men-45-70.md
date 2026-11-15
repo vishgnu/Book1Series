@@ -2,24 +2,24 @@
 
 **Genre:** Traditional mystery (Alpine setting) · **Readers:** Women and men 45–70 · **Series:** four books, 60,000–70,000 words each, one complete case per book
 
-**Logline.** Each book opens with one page of a Swiss alpine hut's guest book: everyone the weather will shut in. One dies, one is the killer, and warden Ursi Feuz, 52, former rescue paramedic, must work out which before police can climb up.
+**Logline.** At a Swiss alpine hut 2,740 meters up, warden Ursi Feuz, 52, must find the killer among the names in the hut book before police can climb up, while feeding, bunking and roping down every guest, the killer included.
 
-**The setting.** The Schwarzhorn Hut stands at 2,740 meters in the Bernese Oberland: red-and-white shutters, 34 bunks, one stove, one radio. Guests walk four hours from the last postbus stop and sign the hut book. When storm or snow closes the path, the cantonal police are a day away, and by custom the warden answers for everyone under her roof. Every August since 1961 someone signs "E. Morf" in the same hand, unseen by any warden.
+**The setting.** The Schwarzhorn Hut, Bernese Oberland: 34 bunks, one stove, one radio. Guests walk up four hours and sign the hut book; supplies arrive by helicopter. When the path closes or the helicopter cannot fly, police are a day away, and by custom the warden answers for everyone under her roof, guilty or not.
 
-**The lead.** Ursi Feuz, 52, worked the rescue winch for twenty years until her knee ended it. She wants the hut for good, but the alpine club gave her one trial year and every death counts against her. She reads guests as she read casualties: fast, by what does not fit. She talks short and counts twice. Her daughter in Thun wants her down; Ursi wants dawn coffee on the terrace.
+**The lead.** Ursi worked the rescue winch for twenty years until her knee ended it. The alpine club gave her one trial year, and every death counts against her. She holds that mountain deaths get called accidents too fast; one name in the 2019 volume is a man she winched off too late. She reads guests by what does not fit.
 
-**The cast.** Res von Allmen, 57, supply pilot and her old rescue partner, flies up her newspaper and unasked advice. Nora Gilgen, 22, hut assistant and geology student, argues with Ursi about everything but evidence. Wachtmeister Beat Zumbrunn, valley sergeant, radios nightly, more curious than he admits. Köbi Brawand, 58, the guide who thinks the hut should be his.
+**The cast.** Res von Allmen, 57, supply pilot and old rescue partner, flies up unasked advice. Nora Gilgen, 22, hut assistant and geology student, argues about everything but evidence. Wachtmeister Beat Zumbrunn, valley sergeant, radios nightly. Vreni Kaufmann, 71, the last warden's widow, kept the hut book for thirty years and tells less than she knows.
 
-**The series engine.** The weather closes, a guest dies, and the killer is on the opening page. Ursi works from what a hut holds: boot rack, bed plan, radio log. New strangers walk up every week with their quarrels, and each death brings more valley talk and more pressure from the club.
+**The series engine.** Each book opens with a hut book page: everyone shut in. One dies, one is the killer, and Ursi works from boot rack, bed plan and radio log. She cannot lock anyone out; the stove and the rope are for all. After the second death, Zumbrunn and the club ask whether the hut itself is the link.
 
 **The four-book arc.**
-1. *The August Page* — High summer: two guides and nine clients are stormbound, a Basel notary dies below the terrace, and Zumbrunn starts trusting Ursi.
-2. *The Closing Party* — Autumn closing: fourteen wedding guests are snowed in, the bride's godfather dies beside a blocked stove flue, and Köbi serviced that stove.
-3. *The Winter Room* — February: six ski tourers signed in; Ursi finds five around the stove, the sixth under snow outside, and Nora becomes her legs.
-4. *The Hut Book* — June reopening: six filmmakers come for the hut's bad year and the Morf signature, their sound recordist dies, the 1961 volume vanishes, and the club votes on Ursi.
+1. *The August Page* — August: a storm holds eleven guests, a Basel notary dies below the terrace, and Ursi must rope ten people down knowing one pushed him.
+2. *The Closing Party* — Autumn: eight club volunteers come to close the hut, snow grounds Res, and the treasurer dies in the winter room, its flue capped a day early.
+3. *The Winter Room* — February: avalanche danger level four pins six ski tourers; the sixth lies buried, transceiver off, and Ursi nurses an injured suspect while Nora becomes her legs.
+4. *The Hut Book* — June: the club's inspection party audits the hut books before voting on Ursi, wet snow closes the path, the archivist dies, and the 1961 volume vanishes.
 
-*Running thread:* who signs the hut book "E. Morf" every August, unseen by any warden; book 4 answers it, and whether Ursi keeps the hut.
+*Running thread:* In 1961 a rope of three left and two came back. Emil Morf did not, yet "E. Morf" is signed every August in the same hand, shakier each decade; each case turns up one dated fragment, and book 4 names the signer and settles whether Ursi keeps the hut.
 
-**Why readers come back.** A complete puzzle in every book, solvable from clues on the page, no cliffhanger, no gore. Rösti on the stove, rope and weather done right, and a capable woman of 52 doing a hard job well. Four books, one hut year.
+**Why readers come back.** A complete puzzle in every book, solvable from clues on the page; no cliffhanger, no gore. Rösti on the stove, rope and weather done right, a capable woman doing a hard job well.
 
-**What makes it different.** The suspect list is an object: the hut book page that opens each volume. The detective is the host, not police or visitor, and her duty of care covers the killer too.
+**What makes it different.** The suspect list is an object: the hut book page. The detective is the host, not police or visitor, and her duty of care covers the killer too: she cooks breakfast for the person she is about to name.
