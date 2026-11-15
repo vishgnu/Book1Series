@@ -13,12 +13,12 @@
 **The series engine.** Something goes wrong; Walt mends, June waits and counts, and the answer lies in decades of other couples' handwriting, checked against rock and water. In each book June or Walt is proved wrong, and one entry points toward June's lake.
 
 **The four-book arc.**
-1. *The Thirty-Year Reef* — On Orrin an under-ice reef blooms nine years early; Walt seals the tide crack as ordered, learns early blooms are normal, and reopens it: breach one.
-2. *The Walking Forest* — On Tamsin a forest that walks after groundwater has stopped; June waters one grove, it alone fails to seed, and the board rewrites the order: no breach.
+1. *The Thirty-Year Reef* — On Orrin an under-ice reef blooms nine years early; Walt seals its tide crack as ordered, starves it, finds earlier blooms in rock growth bands, and reopens it: breach one.
+2. *The Walking Forest* — On Tamsin a forest that walks after groundwater stops; orders say water it, June waters one grove, it alone fails to seed, and the board rewrites them: no breach.
 3. *The Night Singer* — On Calder the logbooks describe a night chorus no recorder holds; June finds the recorder filters song as noise, rewires it and won't restore it: breaches two and three.
 4. *The Quiet Basin* — On Selah, June's salt lake, Walt's levels show a survey well draining the basin; they cap it with Strand watching: breach four.
 
-*Running thread:* can anyone else be shown what June saw? In book 3 a warden's entry, "threads at dawn," points to Selah. In book 4 June lets Walt's numbers stand, and three people watch dormant brine life hatch and leave on silk, once in forty-two years. Strand still calls "mirage" right for a blank recorder, and cancels the fourth breach: the Service drilled the well itself.
+*Running thread:* can anyone else be shown what June saw? Book 3's entry "threads at dawn" points to Selah. There June lets Walt's numbers stand, and three people watch brine life hatch and leave on silk, once in forty-two years. Strand still calls "mirage" right for a blank recorder, cancels the breach because the Service drilled the well, and stops the pulping.
 
 **Why readers come back.** A new world each time, a marriage that argues well, a puzzle closed by evidence, and a breach count that rises when they're right and holds when they're wrong.
 

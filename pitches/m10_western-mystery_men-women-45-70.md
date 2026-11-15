@@ -8,7 +8,7 @@
 
 **The lead.** Marty Voss, 54, has been the watermaster's ditch rider since 2002. As a deputy she served the 2001 shutoff that cost Walt Pruitt his farm, and she wants to know it was right. She reads a wet bank: what ran, how deep, when. "Four tenths low. What I think comes after."
 
-**The cast.** Sheriff Caleb Ortega, 47, the trainee who drove her to the Pruitt shutoff; Dale Hinckley, 61, watermaster, who keeps the ditch ledger, minus its 1911 pages, in his late wife's recipe tins; Ruth Aldecoa, 67, a Basque herder's granddaughter on the oldest ditch; Gene Voss, 58, Marty's brother, on the newest.
+**The cast.** Sheriff Caleb Ortega, 47, the trainee who drove her to the Pruitt shutoff; Dale Hinckley, 61, watermaster, who keeps the ditch ledger, minus its 1911 pages, in his late wife's recipe tins; Ruth Aldecoa, 67, a Basque herder's granddaughter on the ditch first in line; Gene Voss, 58, Marty's brother, on the newest.
 
 **The series engine.** The death is Ortega's case; the water is Marty's, and he acts only on what she has signed. Each break comes from what only a ditch rider may do: measure, lock, sign the log, testify. Every case turns on two records that cannot both be true, and the reader sees both. In a dry valley a place in line is worth killing for, every year.
 
@@ -18,8 +18,8 @@
 3. *Dead Storage* — Harvest: a dairy pond filling at night gives up Walt Pruitt, missing since 2001, but Marty's delivery sheets show the pond stood dry until 2003, so someone moved him.
 4. *Forfeit* — Winter: Hinckley lies under ice at a locked headgate, his tins emptied; Marty's log says only her key opened it, and Gene, silent since July, drives her to the courthouse.
 
-*Running thread:* A date forged in 1911 put the Aldecoa ditch first in line; Marty enforced it in 2001 and Walt Pruitt lost his farm. In book 4 she says under oath her shutoff was wrong.
+*Running thread:* In 1911 someone back-dated the Aldecoa claim ahead of the ditch that fed the Pruitt farm; Marty enforced that order in 2001. In book 4 she says under oath her shutoff was wrong.
 
-**Why readers come back.** Each case closes in its own book, no cliffhangers. Each book turns up one missing 1911 page, moving a named ditch up the line, and costs Marty more of her brother, until the last.
+**Why readers come back.** Each case closes in its own book, no cliffhangers. Each book turns up one missing 1911 page, moving a named ditch up the line. The July lockout costs Marty her brother; the winter gives him back.
 
-**What makes it different.** Every cover carries a cut padlock and the line "A Camas Fork Mystery." Its detective cannot arrest anyone, only swear to what the water did, in cubic feet per second.
+**What makes it different.** Its detective cannot arrest anyone, only swear to what the water did, in cubic feet per second, and the reader can check every measurement.

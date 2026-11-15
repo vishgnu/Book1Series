@@ -14,11 +14,11 @@
 
 **The four-book arc.**
 1. *Witness My Hand* — The death is ruled a fall, but the son-in-law's alibi witness once signed Gloria's journal under another name; the son-in-law killed for the house.
-2. *Sworn Before Me* — An inmate who named a deed impostor recants, then overdoses; Gloria had refused him, and the second notary timed his signature during evening count, when no inmate leaves his cell.
+2. *Sworn Before Me* — An inmate overdoses after Gloria refuses his affidavit clearing a deed forger; the stamped copy is timed at evening count, when no cell opens; the forger's lawyer killed him.
 3. *Penalty of Perjury* — Called by Ruth, Gloria refuses a confused dying widow who can barely make an X; the recorded deed bears a fluent signature, forged by the niece who withheld her medication.
-4. *Satisfactory Evidence* — Suspended over a forged seal, Gloria learns Ernesto, too polite to refuse, signed a stranger's deed to his own house; every bad ID in her journals shares one issue date.
+4. *Satisfactory Evidence* — Suspended over a forged seal, Gloria learns Ernesto, too polite to refuse, signed a stranger's deed to his own house; every bad ID she journaled shares one issue date, one maker.
 
-*Running thread:* Who sends a second notary each time Gloria refuses. Nadine, Tsai and Purcell see every refusal; Tsai, always a step early, looks likeliest. Book 4: Nadine, whose failing service sold each refused signer to a notary who never refuses; her book 1 invoice billed the refused deed as closed. Gloria finally sits at the Batistes' table, their judgment won.
+*Running thread:* Who sends a second notary each time Gloria refuses. She reports every refusal to Nadine, Tsai and Purcell. Book 4: Nadine, whose failing service sold each refused signer to the notary who made the IDs, the Batiste impostor's included; her book 1 invoice billed the refused deed as closed. Both are charged; Gloria sits at the Batistes' table, their judgment won.
 
 **Why readers come back.** One case solved per book, every clue in ink on a page the reader has already seen, and one more refused signer for the thread.
 

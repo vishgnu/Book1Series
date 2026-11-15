@@ -10,13 +10,13 @@
 
 **The cast.** Naomi Adeyemi, 29, metallurgist, quit Northline rather than retype a failed hardness result; no lab in town will hire her. Dutch Kowalczyk, 68, retired crane operator, set the ramp's girders. Renee Halloran, Lakehead Mutual's claims manager, four years from her pension, hires them and fights every invoice. Gordon Pike, Northline inspector, trained Elias.
 
-**The series engine.** Each book opens on a fatal failure ruled an accident, five parties who could owe and 60 days to sign. Every local firm takes Northline work; Elias no longer can, so Lakehead hires him, and every cross-examination opens with the ramp. The case has a plausible wrong answer and breaks on something one trade alone could read. The forum changes: deposition, hearing, trial.
+**The series engine.** Each book opens on a fatal failure ruled an accident, five parties who could owe and 60 days to sign. Every other local engineer depends on Northline work and cannot testify against it. Elias, shut out since the ramp, can; Lakehead hires him, and every cross-examination opens with the ramp. The case has a plausible wrong answer and breaks on something one trade alone could read.
 
 **The four-book arc.**
-1. *Cold Short* — A ski-lift tower kills a mechanic, a bolt stamp proves the owner bought off-grade anchors, and an unsigned copy of S-401 turns up from Elias's own office.
+1. *Cold Short* — A ski-lift tower kills a mechanic, Naomi reads a bolt stamp on off-grade anchors Northline passed, and an unsigned S-401 turns up in Elias's own office.
 2. *Lack of Fusion* — A split grain bin buries a worker, a rain gauge shows the seam was welded wet and passed from a Northline desk, and S-401 carries Vance's plot stamp.
 3. *Beach Marks* — An ore-dock conveyor kills two dockhands, Dutch reads chain scars that reveal a concealed overload, Renee is fired for reporting it, and the handwriting on S-401 is Pike's.
-4. *Fracture Critical* — A spillway gate tears and drowns a fisherman; Renee, now at a rival insurer, hires the team, grease logs expose faked maintenance, Northline's files explain S-401, and Ruth answers.
+4. *Fracture Critical* — A spillway gate drowns a fisherman, grease logs expose faked maintenance, Elias reopens his own discipline file to prove Vance ordered Pike's change, and Ruth answers.
 
 *Running thread:* Who changed sheet S-401, and what the answer costs Elias's restored license.
 

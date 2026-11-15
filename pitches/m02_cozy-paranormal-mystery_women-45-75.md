@@ -13,9 +13,9 @@
 **The series engine.** Shadows lean only between parent and child or siblings, half or full. The sight gives one fact, kin or not, never how, and needs light and both people alive in the room. Each death looks accidental; several people gain money, land or silence. Proof is censuses, baptism books and deeds; consented DNA only confirms.
 
 **The four-book arc.**
-1. *Kin by Porch Light* — Ruth Vandermark, 81, falls downstairs; her supposed half-sister casts no lean toward brother Otto: an actress, hired by Otto's thieving guardian.
-2. *Heirs at High Noon* — Carl Brandt, 58, lifelong swimmer, drowns; Walt's shadow leans toward Carl's sister, making Edie's friend heir and suspect until she proves a neighbor forged a deed.
-3. *Deeds Under Glass* — Hollis Ostrander dies before willing his greenhouse to his gardener; his brother's shadow leans toward the young man, the baptism book disagrees, and Edie must prove which page lies.
+1. *Kin by Porch Light* — Ruth Vandermark, 81, falls downstairs; her supposed half-sister casts no lean toward Ruth's brother Otto, because she is an actress hired by Otto's thieving guardian.
+2. *Heirs at High Noon* — Swimmer Carl Brandt, 58, drowns; Walt's shadow leans toward Carl's sister, making Walt a half-brother, heir and suspect, until Edie proves a neighbor forged a deed and drowned Carl.
+3. *Deeds Under Glass* — Hollis Ostrander dies before willing his greenhouse to his gardener; his brother's shadow leans toward the young man, a half-brother owed half; Edie proves which baptism page the brother forged.
 4. *Wills by Lamplight* — Midwife Agnes Pruyn dies in a blackout, one birth ledger missing; Edie finds whose entry was worth killing for, and another leads to a kitchen where her own shadow leans.
 
 *Running thread:* who left a newborn at the courthouse; each book adds one fact (a monogrammed blanket, a cousin match, Ambrose's name on the 1969 report) and book 4 answers, giving Edie living kin.

@@ -13,12 +13,12 @@
 **The series engine.** Park sends the *Tally* wherever count and register disagree. Nell and Davi work through kitchens, ration books, who sings at whose funeral. Every wrong number has a sound reason.
 
 **The four-book arc.**
-1. *One Heartbeat Over* — Pell's Orchard's 213th is a tug hand who played dead to dodge eleven years of back air; the town splits the bill 213 ways.
+1. *One Heartbeat Over* — Pell's Orchard's 213th is a tug hand who played dead to dodge eleven years of air bills; the town splits the bill 213 ways.
 2. *Forty Borrowed Breaths* — Saint Brine's goats breathe air drawn for forty dead; Davi's bedtime gauge check, a habit from home, catches it, and Nell wins a livestock allowance.
 3. *Ninety-Four Loaves* — Quiet Harbor bakes for ninety-four but lists ninety because creditors once bought a ledger naming its children; Davi asks instead of calculating, and Nell enters four strokes, no names.
-4. *Six Hundred Twelve Under Way* — The hauler *Marigold Parish* asks to be counted as its own town, striking 612 from home registers; Park asks Nell to round up, but Nell grants the ship its count.
+4. *Six Hundred Twelve Under Way* — The hauler *Marigold Parish*, bound out of the Reaches, wants its 612 struck from home registers; Park asks Nell to round up, Davi makes the count, and Park signs it.
 
-*Running thread:* Midwife Junia Vasko, 41, is seen and asked twice in one week, a district apart. In book 4 Nell finds she keeps two hearths, half a year each, and changes the form: one stroke, two half-shares of air. The seats hold by two: 650 over, plus five found, less 653 struck.
+*Running thread:* Midwife Junia Vasko, 41, is seen and asked at two hearths in one count year. In book 4 Nell finds she keeps both, half a year each, and changes the form: one stroke, two half-shares of air. The seats hold by two: 650 over, plus five found, less 653 struck.
 
 **Why readers come back.** A warm galley, a fair puzzle, a society small enough to learn by name. Each book ends on Nell's pocket book: the new seat margin, and one Junia theory struck out. In book 4 Nell sets Ade's galley for two again, Oksana in the second chair.
 

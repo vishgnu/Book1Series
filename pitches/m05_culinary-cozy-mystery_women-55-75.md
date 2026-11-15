@@ -6,7 +6,7 @@
 
 **The setting.** One summer, four fairs: Tamarack County, Sorrel, Pike Lake, then the State Fair. Each is a week-long town: dairy barn, grandstand, midway. Judges bunk in the 4-H dormitory; the same bakers and ride crew follow the circuit. Chairman Gordon Rask pins every blue ribbon himself. Nothing leaves the exhibit hall until Sunday.
 
-**The lead.** Thirty years in the Norquist Mills test kitchen taught Dot to tell lard from shortening, and one kitchen from another. She wants this summer with her granddaughter, Seattle-bound in September; every hour on a case comes out of it. She talks like a recipe card: "Shortening. I'd have forgiven the lie before the crust."
+**The lead.** Thirty years in the Norquist Mills test kitchen taught Dot to tell lard from shortening. She wants this summer with her granddaughter, Seattle-bound in September; every hour on a case comes out of it. She talks like a recipe card: "Shortening. I'd have forgiven the lie before the crust."
 
 **The cast.** Kayla Engelhardt, 19, drives the Buick and hasn't baked since Dot called her crust tough. Harlan Voight, 70, livestock judge, brings coffee, his basset Oleo and the wrong suspect. Bev Aasen, 61, circuit secretary, saves everyone a plate; Lorraine Tvedt, 72, ribbon letterer, corrects the menu in ink. They share the dormitory oven.
 
@@ -14,11 +14,11 @@
 
 **The four-book arc.**
 1. *Jam No. 41 Under the Ferris Wheel* — Ride inspector Walt dies under the Ferris wheel; Dot wrongly blames operator Rita Dahl, apologizes with pie, and keeps Walt's notebook.
-2. *The Lard in Pie No. 117* — A fair-board man dies in the milk house; leaf lard in one pie clears the ride crew, and Harlan's chair moves closer.
-3. *Sourdough No. 9 and the Empty Booth* — The fair announcer, Harlan's fishing partner, dies; Lorraine is suspected until Kayla spots one oven's scorched corner on two winning loaves.
+2. *The Lard in Pie No. 117* — A fair-board man dies in the milk house; leaf lard clears the ride crew and names the dairy superintendent, who watered the milk; Harlan's chair moves closer.
+3. *Sourdough No. 9 and the Empty Booth* — The fair announcer, Harlan's fishing partner, dies; Kayla spots one oven's scorched corner on two winning loaves, exposing the baker he caught entering twice.
 4. *Butter No. 302, Best in Show* — The State Fair treasurer dies beside the butter sculpture; Dot names Chairman Rask as the killer, then asks Kayla for a pie.
 
-*Running thread:* Why Walt's notebook lists blue-ribbon numbers: Rask has Bev bake winning entries for officials, who sign his ride inspections unread. Bev baked to keep small fairs open and keeps her seat at supper; Dot is asked back.
+*Running thread:* Why Walt's notebook lists blue-ribbon numbers: officials win ribbons with entries Bev bakes, then sign Rask's ride inspections unread. Bev never knew what the ribbons bought; she tells the sheriff and keeps her seat at supper.
 
 **Why readers come back.** A week at the fair without the heat: dill pickles held to the light, the percolator at five. What carries over is the weeks before Seattle, whether Kayla bakes again, and the next number in Walt's notebook.
 

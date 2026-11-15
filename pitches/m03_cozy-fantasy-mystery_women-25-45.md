@@ -14,11 +14,11 @@
 
 **The four-book arc.**
 1. *A Grain of Luck* — A chest of luck arrives an ounce short and Dot is blamed; Wren clears her and finds a seal the Office never struck.
-2. *A Dram of Sleep* — Henna's bake-off loaf puts the judges to sleep; Wren clears her, quarrels with Lucan, and learns the false seal was cast, not cut.
-3. *A Scruple of Mercy* — Wren condemns a generous apothecary's measure, finds the forged seal on her own test weight, and restores the shop; Lucan defies his Hall.
+2. *A Dram of Sleep* — Henna's bake-off loaf puts the judges to sleep; Wren clears her, quarrels with Lucan, and learns from Madge that the forged seal was cast, not cut.
+3. *A Scruple of Mercy* — Wren condemns a generous apothecary, then finds her own test weight light under a forged seal; she restores the shop, and Lucan defies his Hall.
 4. *A Pound of Truth* — The noon bell rings late: the master pound is light and keeper Osric Pell is blamed; Wren names the forger, overturns her verdict, and her father writes back.
 
-*Running thread:* Who forges the Office's seal, and did it condemn her father's scale? Answered in book 4: Madge, hiding one bad casting; the tea scale was true.
+*Running thread:* Who forges the Office's seal, and was her father's scale truly short? Answered in book 4: Madge, to pass one light test weight she cast; it condemned a true scale.
 
 **Why readers come back.** A spare boardinghouse chair that slowly becomes Wren's. A slow burn with one step back: a saved seat, an empty one, a defied Hall, an answer. Each case ends fully; in the last, Wren unpacks.
 

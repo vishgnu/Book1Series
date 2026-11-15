@@ -6,7 +6,7 @@
 
 **The setting.** Port Sable is a harbor city of kite-sailed freighters and diary notaries. In 2049 a treatment called the Forfeit ended aging at a price: memory keeps only the latest seventy years. Courts refuse testimony older than memory, so the Century Unit trusts paper, cloth, bone and dead devices. Forgetting a killing does not undo it in law: conviction means forty years confined, most of a living memory.
 
-**The lead.** Varga runs the Unit and trusts her own handwriting too much. She wants to find Corin Hale, the sergeant who trained her when she was 27, known only from pencil corrections in her oldest notebooks, which say he quit during her first homicide, not why. She asks for the receipt before the story, in short, dry questions, then waits.
+**The lead.** Varga runs the Unit and trusts her own handwriting too much. She wants to find Corin Hale, the sergeant who trained her at 27 and quit during her first homicide. He is alive, remembers none of it, and survives only as pencil corrections in her notebooks. She asks for the receipt before the story, then waits.
 
 **The cast.** Pell coaxes one small fact from each dead device and calls Varga's notebooks one more account. Sergeant Ilan Okafor, 61, remembers everything and is writing down his mother's kitchen before his first forgetting, nine years off. Defense advocate Tobias Quill argues that a client who cannot remember the act did not commit it, and believes it.
 
@@ -15,10 +15,10 @@
 **The four-book arc.**
 1. *The Larch Street Doorbell* — A walled-up doorbell camera, its clock an hour off, breaks the alibi a daughter, now 121, gave her father at five; she still owns the house it won.
 2. *The Judge's Raincoat* — A ferry ticket in a raincoat lining places a judge beside a clerk drowned in 2026; Hale signed the report, one page since replaced.
-3. *The Clinic Queue* — A ledger from the first Forfeit queue reopens a nurse's killing; the order of names shows who stood behind her, and that Hale arrested the wrong man.
-4. *The Sealed Tin* — A phone in a sealed tin reopens Varga's first homicide; Okafor leads, Varga is a witness, and Pell authenticates her notebooks against her.
+3. *The Clinic Queue* — A ledger from the first Forfeit queue reopens a nurse's killing; the order of names shows who stood behind her, and that Hale stood in it.
+4. *The Sealed Tin* — A phone in a sealed tin reopens Varga's first homicide, a pawnbroker whose partner holds the shop; Okafor leads, Varga is a witness, and Pell authenticates her notebooks against her.
 
-*Running thread:* Did Varga drive out the man who trained her? Each book adds one document to the Hale file, beginning with a pencil correction; book 4 answers it.
+*Running thread:* Did Varga drive out the man who trained her? Each book adds one document to the Hale file; book 4 answers it.
 
 **Why readers come back.** A complete, fair mystery every book, nobody hurt on the page. Varga and Pell arguing over a ferry ticket, she reading the date, Pell the ink. Witnesses a century older than their alibis, met with patience, not contempt.
 
