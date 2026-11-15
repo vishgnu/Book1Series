@@ -4,22 +4,22 @@
 
 **Logline.** In 2084, ranger-veterinarian Hanka Sommer guards the Bruch, nine thousand square kilometers of rewilded fen where nobody may live. Each season brings one species and one case, and every honest report hands back more of her family's drowned village.
 
-**The setting.** After the floods, the land between Elbe and Oder went back to water and grass. Back-bred aurochs, wisent, elk, wild horses and wolves move through drowned villages and birch-grown autobahn. Forty rangers watch from river barges, with sensor mycelium in the peat and gauges in church towers. The Charter's rule, valid only where the gauges read wet: nobody lives here, nothing leaves, and rangers handle an animal only to undo human harm.
+**The setting.** Between Elbe and Oder, back-bred aurochs, wisent, wild horses and wolves move through drowned villages and birch-grown autobahn. Forty rangers watch from river barges, with gauges in church towers. The Charter: nobody lives here, nothing leaves, and rangers handle an animal only to undo human harm. Ground gauged dry for a year leaves the Charter to surveyors, licensed breeders and whichever returners the Assembly admits.
 
-**The lead.** Hanka Sommer, 34, wants the Bruch kept wild. Her mother calls it the theft of Zerbow, the family village under reeds, and every low reading Hanka signs moves the Charter line inward. She signs anyway. She can read a limping wisent at four hundred meters and talks in short sentences.
+**The lead.** Hanka Sommer, 34, was nine when her father drowned sandbagging Zerbow's dike; she wants the Bruch kept wild. Her mother calls it the theft of Zerbow, and every low reading Hanka signs moves the Charter line inward. She signs anyway, then skips the hearing. "Walls drown people. Water only rises."
 
-**The cast.** Renate Sommer, 66, her mother, speaker for the Zerbow returners. Tomasz Wrona, 57, the tracker who trained Hanka, trusts his feet over sensors. Ines Brandt, 41, hydrologist: summer pumping upstream dries the peat, yet winter floods still need the basin. Deniz Aydin, 23, first-year ranger; his Hamburg family is listed for the calving ground.
+**The cast.** Renate Sommer, 66, her mother, speaks for the Zerbow returners; each autumn Hanka barges her out to the family graves. Tomasz Wrona, 57, who trained Hanka, would leave a finding out to protect the Bruch. Ines Brandt, 41, hydrologist with numbers nobody likes, wants sluices. Deniz Aydin, 23, first-year ranger; his Hamburg family holds a claim on the calving ground.
 
-**The series engine.** One season, one species, one case per book: tracking and field medicine. Missions keep arriving because the drying fen pushes herds onto ground the Charter no longer covers, where breeders, settlers and surveyors wait. Every finding goes to the Elbe-Oder Assembly, where returners face downstream cities that need the fen as flood storage.
+**The series engine.** One season, one species, one case per book: tracking and field medicine. The drying fen pushes herds onto ground the Charter no longer covers, and every finding goes to the Elbe-Oder Assembly, where returners face downstream cities that need the fen as flood storage.
 
 **The four-book arc.**
-1. *Winter Marsh* — A wisent herd quits its range, two cows cut by survey cable; Hanka tracks it to Ines Brandt, alive on the herd's safe ice, frees the cows, and countersigns the survey that leaves the aurochs calving ground dry.
-2. *Calving Ground* — A licensed breeder takes nine newborn calves from that ground; Hanka matches calf to dam by blood and milk and barges them home across thawing fen before the bonds fail. Zerbow's church roof surfaces.
-3. *Fire Season* — Renate's settlers camp in wild-horse country and their fire catches dried peat; Hanka breaches an old dike without orders to drown it. Her testimony wins them a hearing and costs her a suspension.
-4. *The Unbred* — An unchipped brown bear shadows the elk migration toward the survey camps. Hanka moves the camps, and the bear walks on unhandled; its teeth and hair prove a pen-raised animal Tomasz released to scare surveyors before the vote. She names him.
+1. *Winter Marsh* — A wisent herd quits its range, two cows cut by survey cable; Hanka tracks it to Ines Brandt, frees the cows, and countersigns the survey that leaves the aurochs calving ground dry.
+2. *Calving Ground* — A breeder takes nine newborn calves from that ground; Hanka and Deniz match calf to dam and barge them home before the bonds fail, against his family's claim. Tomasz leaves a track out of the log; she lets him.
+3. *Fire Season* — Renate's settlers camp in wild-horse country and their fire catches dried peat; Hanka breaches an old dike without orders to drown it. Her first Assembly testimony wins them a hearing and costs her a suspension.
+4. *The Unbred* — An unchipped brown bear shadows the elk migration toward the survey camps. Hanka moves the camps and the bear walks on unhandled; its teeth and hair prove a pen-raised animal Tomasz released to scare surveyors. She names him, and her own silence.
 
-*Running thread:* Whether the Charter survives the year-end vote as the water falls and Zerbow's roofs surface; book 4 renews it for ten years, with Zerbow's high ground returned and Tomasz's badge gone.
+*Running thread:* Whether the Charter survives the year-end vote; book 4 renews it for ten years, with Zerbow's high ground returned and Tomasz's badge gone. Renate rebuilds on the church hill; Hanka, demoted, patrols the line below.
 
-**Why readers come back.** A full case solved in every book, no cliffhangers. Mud, ice, smoke and river light. A crew worth a year. A recovering land kept that way by competent people.
+**Why readers come back.** A full case solved in every book, no cliffhangers. A mother and daughter on opposite sides of one grave plot. A recovering land kept by competent people.
 
-**What makes it different.** The conflict comes from recovery, not collapse: people want back in. Cases turn on veterinary evidence, tracks and water levels, not guns. The law follows the water, so the strongest witness against the ranger's cause is her own honest report.
+**What makes it different.** The conflict comes from recovery, not collapse: people want back in. The law follows the water, so the strongest witness against the ranger's cause is her own honest report.
