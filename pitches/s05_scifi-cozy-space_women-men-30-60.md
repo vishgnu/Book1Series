@@ -2,7 +2,7 @@
 
 **Genre:** Cozy science fiction (space) · **Readers:** Women and men 30–60 · **Series:** four books, 60,000–70,000 words each, one complete case per book
 
-**Logline.** The register at Pell's Orchard says 212; census taker Nell Abara, 53, counts 213 and puts the kettle on. Each book she rights one habitat's wrong number, while one midwife keeps turning up counted twice.
+**Logline.** The register at Dunmore's Orchard says 212; census taker Nell Abara, 53, counts 213 and puts the kettle on. Each book she rights one habitat's wrong number, while one midwife keeps turning up counted twice.
 
 **The setting.** The Outer Reaches: orchard rings and sixty-person ice drums. Scrubbers lose some of every breath, so the Air Board ships make-up air, billed per head. Gauges show how much is breathed, never by whom, so every person must be seen and asked. The last orbital count cut a living town's air. The Reaches keep their Assembly seats only above four million heads; the register stands 650 over.
 
@@ -13,10 +13,10 @@
 **The series engine.** Park sends the *Tally* wherever count and register disagree. Nell and Davi work through kitchens, ration books, who sings at whose funeral. Every wrong number has a sound reason.
 
 **The four-book arc.**
-1. *One Heartbeat Over* — Pell's Orchard's 213th is a tug hand who played dead to dodge eleven years of air bills; the town splits the bill 213 ways.
+1. *One Heartbeat Over* — Dunmore's Orchard's 213th is a tug hand who played dead to dodge eleven years of air bills; the town splits the bill 213 ways.
 2. *Forty Borrowed Breaths* — Saint Brine's goats breathe air drawn for forty dead; Davi's bedtime gauge check, a habit from home, catches it, and Nell wins a livestock allowance.
 3. *Ninety-Four Loaves* — Quiet Harbor bakes for ninety-four but lists ninety because creditors once bought a ledger naming its children; Davi asks instead of calculating, and Nell enters four strokes, no names.
-4. *Six Hundred Twelve Under Way* — The hauler *Marigold Parish*, bound out of the Reaches, wants its 612 struck from home registers; Park asks Nell to round up, Davi makes the count, and Park signs it.
+4. *Six Hundred Twelve Under Way* — The hauler *Clover Parish*, bound out of the Reaches, wants its 612 struck from home registers; Park asks Nell to round up, Davi makes the count, and Park signs it.
 
 *Running thread:* Midwife Junia Vasko, 41, is seen and asked at two hearths in one count year. In book 4 Nell finds she keeps both, half a year each, and changes the form: one stroke, two half-shares of air. The seats hold by two: 650 over, plus five found, less 653 struck.
 

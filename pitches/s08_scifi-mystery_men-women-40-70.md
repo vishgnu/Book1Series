@@ -8,7 +8,7 @@
 
 **The lead.** Varga runs the Unit and trusts her own handwriting too much. She wants to find Corin Hale, the sergeant who trained her at 27 and quit during her first homicide. He is alive, remembers none of it, and survives only as pencil corrections in her notebooks. She asks for the receipt before the story, then waits.
 
-**The cast.** Pell coaxes one small fact from each dead device and calls Varga's notebooks one more account. Sergeant Ilan Okafor, 61, remembers everything and is writing down his mother's kitchen before his first forgetting, nine years off. Defense advocate Tobias Quill argues that a client who cannot remember the act did not commit it, and believes it.
+**The cast.** Pell coaxes one small fact from each dead device and calls Varga's notebooks one more account. Sergeant Ilan Okafor, 61, remembers everything and is writing down his mother's kitchen before his first forgetting, nine years off. Defense advocate Silas Roe argues that a client who cannot remember the act did not commit it, and believes it.
 
 **The series engine.** Each book opens with a twenty-first-century object surfacing from a wall, an auction or harbor mud. Someone still holds a house or a pension because of the old story, and no killer may keep what the killing won, so Varga traces how the story drifted and who gained. No suspect dies of old age, so no case closes itself.
 

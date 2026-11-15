@@ -8,15 +8,15 @@
 
 **The lead.** Ines Calder, 37, works from the back of the Blue Drum laundromat. At nineteen she admitted one missed payment and spent five years a Ward; her Guardian sold her mother's house. She has conceded nothing since. She has lost two appeals for her brother Sam; a third is permanent, so she needs proof first. Exact, dry, funniest when furious.
 
-**The cast.** Sam Calder, 41, crane mechanic and Ward, told her not to file again and still fixes her dryers. Teo Brandt, 29, Lakehead case officer, signed his mother into Wardship and believes it saved her. Tribunal chair Aila Kangas, 58, has ruled against Ines eleven times and reads every page. Paul Rennick, 54, runs Lakehead Guardian and signs for his own father.
+**The cast.** Sam Calder, 41, crane mechanic and Ward, told her not to file again and still fixes her dryers. Niko Paredes, 29, Brightwater case officer, signed his mother into Wardship and believes it saved her. Tribunal chair Aila Kangas, 58, has ruled against Ines eleven times and reads every page. Paul Rennick, 54, runs Brightwater Guardian and signs for his own father.
 
 **The series engine.** Each book: a failed Assessment, a hearing in thirty days. Scores are sealed. Ines learns why her client failed and who profits, while Rennick leans on her: the laundromat's account frozen, Sam's crane ticket pulled.
 
 **The four-book arc.**
 1. *Seventy-One* — Baker Danuta Wojcik, 44, has dyscalculia; Ines saves her shop and finds her 71 was failed against 74, not the published 70.
-2. *Countersigned* — Union archivist Walt Deering, 73, loses his appeal; Ines commits her one crime, back-dating a deed to before his Wardship so his archive and its fee ledgers reach the union.
+2. *Countersigned* — Union archivist Amos Deering, 73, loses his appeal; Ines commits her one crime, back-dating a deed to before his Wardship so his archive and its fee ledgers reach the union.
 3. *Winter Address* — Deckhand Jan Hruska, 46, failed for moving boarding houses each winter; Ines wins back his bunk and his postcode's score sheets, Sam's among them.
-4. *Her Own Hand* — Teo reports the back-dated deed, finds his mother's postcode in Lakehead's fee tables and brings them to Ines; at her renewal she concedes the forgery and puts the schedule on record.
+4. *Her Own Hand* — Niko reports the back-dated deed, finds his mother's postcode in Brightwater's fee tables and brings them to Ines; at her renewal she concedes the forgery and puts the schedule on record.
 
 *Running thread:* Who moves the pass mark by postcode. Book 4 finds a schedule passed in open session, never gazetted, priced on Guardian fee income. The Assessment stands with one published mark; 1,400 Wards sign again, Sam on his own lease. Ines is a Ward again; Sam signs for her.
 

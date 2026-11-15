@@ -8,7 +8,7 @@
 
 **The lead.** Hester, 38, has no magic. Ships' strongboxes salt-scarred her fingertips, so she knocks, and she talks to locks like shy horses. She left when her grandmother Odile would not explain the shop's cellar; Odile died before she came home. She swore Odile's oath on the cellar's promise lock: open a door unwitnessed and the cellar springs open and the town takes the shop.
 
-**The cast.** Bram Tolliver, retired burglar, grades Hester's lockwork out of ten; she has never had an eight. Sergeant Ruth Pike, her lawful witness, keeps a book missing one of Odile's doors. Cal Marrow, town binder, takes every unexplained door personally and rebinds Hester's shop door tighter, unasked.
+**The cast.** Bram Tolliver, retired burglar, grades Hester's lockwork out of ten; she has never had an eight. Sergeant Maud Garrick, her lawful witness, keeps a book missing one of Odile's doors. Cal Wainscott, town binder, takes every unexplained door personally and rebinds Hester's shop door tighter, unasked.
 
 **The series engine.** Every case opens on a neighbor's worst morning: a door locked, or open, as no charm allows. The lock type names the suspects: whoever held the hand, word, hour or promise. All the clues are on the page before Hester swears. Deaths stay offstage.
 
@@ -18,7 +18,7 @@
 3. *The Early Bell* — A cashbox vanishes through an hour-bound inn door; Hester clears Bram by proving the bell rang early and learns why Odile hired a burglar.
 4. *The Cellar Ninety Steps Away* — The clerk dies behind a promise-bound bolt; Hester forfeits the shop to open a door unwitnessed, her cellar lock springs ninety steps away, and the killer's alibi of distance fails.
 
-*Running thread:* Did Odile ever open a door unwitnessed? Her cellar ledger lists them: most hid a kindness, the one missing from Ruth's book the clerk's fraud. Hester re-swears, Cal rebinds the cellar at her asking, and stays for supper.
+*Running thread:* Did Odile ever open a door unwitnessed? Her cellar ledger lists them: most hid a kindness, the one missing from Maud's book the clerk's fraud. Hester re-swears, Cal rebinds the cellar at her asking, and stays for supper.
 
 **Why readers come back.** A steep town you would rent a room in, with a burglar marking your homework. Each book closes its case, adds one person to Hester's table, and moves nearer Odile's cellar.
 

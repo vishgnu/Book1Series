@@ -8,7 +8,7 @@
 
 **The lead.** Hazel got the sound table in 1942 when the men left, and kept it. She wants to be believed: when her teacher Gus Lindqvist died, the coroner wrote "accident." Now she writes down every sound she cannot place, and she can splice tape herself. She talks dry: "That was a door. It wasn't mine."
 
-**The cast.** Her deaf father Anton, a streetcar motorman, reads her lips over supper and knows when she lies. Dot Feeney keeps no secret past lunch; her stopwatch sheets break alibis. Ray Hauser, police dispatcher, hears every call in the city and courts Hazel slowly. Sergeant Frank Kessler wants evidence he can bag; he doubts her, then asks for her by name.
+**The cast.** Her deaf father Anton, a streetcar motorman, reads her lips over supper and knows when she lies. Ginny Feeney keeps no secret past lunch; her stopwatch sheets break alibis. Ray Hauser, police dispatcher, hears every call in the city and courts Hazel slowly. Sergeant Frank Kessler wants evidence he can bag; he doubts her, then asks for her by name.
 
 **The series engine.** Each murder turns on one wrong sound, never meaning the same thing twice. Her ear opens a case; proof a jury can hold closes it. After Book 1, strangers bring her sounds they cannot explain.
 

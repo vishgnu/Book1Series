@@ -8,14 +8,14 @@
 
 **The lead.** Nineteen years a superior court clerk. Six years ago she notarized an impostor's deed on good ID and the Batistes lost their house; she keeps that journal page and has never faced them. A second bad stamp would end her commission. Days belong to her father Ernesto, 79, a retired locksmith losing his memory. Dry, exact, polite: "Sir, I asked her, not you."
 
-**The cast.** Ruth Adeyemi, 58, hospital night chaplain, who calls when a patient is rushed to sign. Nadine Kovac, 52, whose signing service books Gloria's jobs and who talks her home at 3 a.m. Warren Tsai, 44, the district attorney's fraud investigator, who subpoenas her pages. Dale Purcell, 61, the escrow officer who sees every deed she turns away.
+**The cast.** Grace Oyelaran, 58, hospital night chaplain, who calls when a patient is rushed to sign. Nadine Kovac, 52, whose signing service books Gloria's jobs and who talks her home at 3 a.m. Warren Tsai, 44, the district attorney's fraud investigator, who subpoenas her pages. Glenn Purcell, 61, the escrow officer who sees every deed she turns away.
 
 **The series engine.** Every case starts at a signing: a few people, one lying. Police see an accident or a civil dispute; Gloria's journal, recorded deeds and court files give Tsai grounds to open a file.
 
 **The four-book arc.**
 1. *Witness My Hand* — The death is ruled a fall, but the son-in-law's alibi witness once signed Gloria's journal under another name; the son-in-law killed for the house.
 2. *Sworn Before Me* — An inmate overdoses after Gloria refuses his affidavit clearing a deed forger; the stamped copy is timed at evening count, when no cell opens; the forger's lawyer killed him.
-3. *Penalty of Perjury* — Called by Ruth, Gloria refuses a confused dying widow who can barely make an X; the recorded deed bears a fluent signature, forged by the niece who withheld her medication.
+3. *Penalty of Perjury* — Called by Grace, Gloria refuses a confused dying widow who can barely make an X; the recorded deed bears a fluent signature, forged by the niece who withheld her medication.
 4. *Satisfactory Evidence* — Suspended over a forged seal, Gloria learns Ernesto, too polite to refuse, signed a stranger's deed to his own house; every bad ID she journaled shares one issue date, one maker.
 
 *Running thread:* Who sends a second notary each time Gloria refuses. She reports every refusal to Nadine, Tsai and Purcell. Book 4: Nadine, whose failing service sold each refused signer to the notary who made the IDs, the Batiste impostor's included; her book 1 invoice billed the refused deed as closed. Both are charged; Gloria sits at the Batistes' table, their judgment won.

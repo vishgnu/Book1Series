@@ -8,17 +8,17 @@
 
 **The lead.** Hanka Sommer, 34, reads a limping wisent at 400 meters. She was nine when her father drowned sandbagging Zerbow's dike; each autumn she barges her mother to his grave. She wants the fen wild and her mother's forgiveness, and cannot have both. "Four hundred twelve sandbags. He chalked it on the pump house."
 
-**The cast.** Renate Sommer, 66, her mother, calls the Charter "the theft of Zerbow." Tomasz Wrona, 57, her trainer, keeps his real counts in a notebook. Ines Brandt, 41, hydrologist, wants sluices to keep the fen wet in dry summers. Deniz Aydin, 23, first-year ranger, wants the badge; his grandparents hold the calving ground's deed.
+**The cast.** Renate Sommer, 66, her mother, calls the Charter "the theft of Zerbow." Tomasz Wrona, 57, her trainer, keeps his real counts in a notebook. Jutta Reimann, 41, hydrologist, wants sluices to keep the fen wet in dry summers. Deniz Aydin, 23, first-year ranger, wants the badge; his grandparents hold the calving ground's deed.
 
 **The series engine.** One season, one species, one case. As summers dry the fen, herds wander onto released ground, where breeders pay a year's wage for a wild-born calf. Every finding goes to the Elbe-Oder Assembly: half its seats belong to returner families, half to downstream cities that need the fen to hold their floods.
 
 **The four-book arc.**
-1. *Wisent Winter* — Hanka treats two wisent snared in survey cable, traces it to Ines's crew, and still signs their honest readings; the calving ground is released and returners gain votes.
+1. *Wisent Winter* — Hanka treats two wisent snared in survey cable, traces it to Jutta's crew, and still signs their honest readings; the calving ground is released and returners gain votes.
 2. *Aurochs Spring* — A breeder claims nine calves; Hanka and Deniz prove them wild-born by blood and milk, and she lets Tomasz leave a tenth, already sold, off the count.
 3. *Wild Horse Summer* — A campfire lights dry peat; Hanka breaches a dike without orders to save the horses, counts the flooded nests, and names her mother as the camper.
 4. *Bear Autumn* — Hanka moves the camps, not the bear trailing the surveyors; snared hair and bar-worn teeth show it was pen-raised, and Tomasz released it to scare them off.
 
-*Running thread:* Whether the Charter survives the year-end vote. Book 4 renews it for ten years: Ines's sluices built, Zerbow's church hill returned to Renate, Tomasz's badge gone, Hanka demoted after naming her own silence.
+*Running thread:* Whether the Charter survives the year-end vote. Book 4 renews it for ten years: Jutta's sluices built, Zerbow's church hill returned to Renate, Tomasz's badge gone, Hanka demoted after naming her own silence.
 
 **Why readers come back.** Every case closes, and each leaves a debt the next book collects, such as the calf Tomasz left off the count. A mother and daughter on opposite sides of one grave plot. Hurt animals are treated and recover; no named animal dies.
 

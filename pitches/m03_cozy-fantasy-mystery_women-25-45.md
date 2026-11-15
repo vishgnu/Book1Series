@@ -8,15 +8,15 @@
 
 **The lead.** Wren Calloway, 38, is the best inspector at the Office of Weights and Measures and still Junior Inspector Third Class. She apologizes first, then corrects you to the grain. Eleven years ago she found her father's tea scale short and signed the condemnation. The Office keeps her third class because she keeps asking to re-test it. He returns her letters unopened. She has never unpacked her trunk.
 
-**The cast.** Bargewoman Dot Marrow shaves her tonnage and calls Wren "Ounces." Landlady Henna Finch keeps supper warm and chalks up favors owed. Assayer Lucan Ashby, 40, a widower who tests everything twice, disputes her evidence and saves her a seat. Bell-founder Madge Tolliver casts the city's weights and brings marzipan.
+**The cast.** Bargewoman Tib Marrow shaves her tonnage and calls Wren "Ounces." Landlady Henna Finch keeps supper warm and chalks up favors owed. Assayer Lucan Ashby, 40, a widower who tests everything twice, disputes her evidence and saves her a seat. Bell-founder Madge Corbin casts the city's weights and brings marzipan.
 
 **The series engine.** Every book opens with something that weighs wrong and someone Wren likes blamed. She can condemn a measure and compel a ledger, never arrest. The last click is a sum the reader can solve too: eleven ounces against twelve. Nobody dies.
 
 **The four-book arc.**
-1. *A Grain of Luck* — A chest of luck arrives an ounce short and Dot is blamed; Wren clears her and finds a seal the Office never struck.
+1. *A Grain of Luck* — A chest of luck arrives an ounce short and Tib is blamed; Wren clears her and finds a seal the Office never struck.
 2. *A Dram of Sleep* — Henna's bake-off loaf puts the judges to sleep; Wren clears her, quarrels with Lucan, and learns from Madge that the forged seal was cast, not cut.
 3. *A Scruple of Mercy* — Wren condemns a generous apothecary, then finds her own test weight light under a forged seal; she restores the shop, and Lucan defies his Hall.
-4. *A Pound of Truth* — The noon bell rings late: the master pound is light and keeper Osric Pell is blamed; Wren names the forger, overturns her verdict, and her father writes back.
+4. *A Pound of Truth* — The noon bell rings late: the master pound is light and keeper Osric Thane is blamed; Wren names the forger, overturns her verdict, and her father writes back.
 
 *Running thread:* Who forges the Office's seal, and was her father's scale truly short? Answered in book 4: Madge, to pass one light test weight she cast; it condemned a true scale.
 
