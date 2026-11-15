@@ -6,20 +6,20 @@
 
 **The setting.** After 9 p.m.: loan papers on a Pacoima kitchen table, a power of attorney at a hospital bedside. A California notary gives no legal advice: she identifies the signer, journals the date and time, takes a thumbprint for deeds, and may refuse anyone confused or coerced.
 
-**The lead.** Nineteen years a superior court clerk. Six years ago she notarized an impostor's deed on good ID and the Batistes lost their house; she keeps that journal page and has never faced them. A second bad stamp would cost her commission. Days belong to her father Ernesto, 79, a retired locksmith losing his memory. Dry, exact, polite: "Sir, I asked her, not you."
+**The lead.** Nineteen years a superior court clerk. Six years ago she notarized an impostor's deed on good ID and the Batistes lost their house; she keeps that journal page and has never faced them. A second bad stamp would end her commission. Days belong to her father Ernesto, 79, a retired locksmith losing his memory. Dry, exact, polite: "Sir, I asked her, not you."
 
-**The cast.** Ruth Adeyemi, 58, hospital night chaplain, who calls when a patient is rushed to sign and argues mercy over rules. Nadine Kovac, 52, whose signing service books Gloria's jobs and who talks her home at 3 a.m. Warren Tsai, 44, the district attorney's fraud investigator, who subpoenas her pages. Dale Purcell, 61, the escrow officer who closes her loans.
+**The cast.** Ruth Adeyemi, 58, hospital night chaplain, who calls when a patient is rushed to sign. Nadine Kovac, 52, whose signing service books Gloria's jobs and who talks her home at 3 a.m. Warren Tsai, 44, the district attorney's fraud investigator, who subpoenas her pages. Dale Purcell, 61, the escrow officer who sees every deed she turns away.
 
-**The series engine.** Every case starts at a signing: a few people, one lying. Police have a medical examiner's ruling and no probable cause; Gloria's journal, recorded deeds and court files give Tsai grounds to open a file.
+**The series engine.** Every case starts at a signing: a few people, one lying. Police see an accident or a civil dispute; Gloria's journal, recorded deeds and court files give Tsai grounds to open a file.
 
 **The four-book arc.**
 1. *Witness My Hand* — The death is ruled a fall, but the son-in-law's alibi witness once signed Gloria's journal under another name; the son-in-law killed for the house.
-2. *Sworn Before Me* — A jail inmate names a deed impostor, recants, then fatally overdoses; the recantation's journal entry falls during the jail count, and the impostor's brother carried in paper and pills.
-3. *Penalty of Perjury* — At Ruth's call Gloria notarizes a dying widow's X before two witnesses; days later a deed carries a fluent signature, forged by the niece who withheld her medication.
-4. *Satisfactory Evidence* — A deed with Gloria's seal, absent from her journal, evicts a family; Ernesto signs away his own house; her four journals show every bad ID shares one issue date.
+2. *Sworn Before Me* — An inmate who named a deed impostor recants, then overdoses; Gloria had refused him, and the second notary timed his signature during evening count, when no inmate leaves his cell.
+3. *Penalty of Perjury* — Called by Ruth, Gloria refuses a confused dying widow who can barely make an X; the recorded deed bears a fluent signature, forged by the niece who withheld her medication.
+4. *Satisfactory Evidence* — Suspended over a forged seal, Gloria learns Ernesto, too polite to refuse, signed a stranger's deed to his own house; every bad ID in her journals shares one issue date.
 
-*Running thread:* Who sends a second notary each time Gloria refuses. Nadine, Tsai and Purcell see every refusal; Tsai looks likeliest. Book 4: Nadine, whose failing service sold each refused signer to a notary who would not refuse; her book 1 invoice billed the refused deed as closed. Nadine is charged, and Gloria sits at the Batistes' table as they win a judgment.
+*Running thread:* Who sends a second notary each time Gloria refuses. Nadine, Tsai and Purcell see every refusal; Tsai, always a step early, looks likeliest. Book 4: Nadine, whose failing service sold each refused signer to a notary who never refuses; her book 1 invoice billed the refused deed as closed. Gloria finally sits at the Batistes' table, their judgment won.
 
-**Why readers come back.** One mystery solved per book, every clue on a page the reader has already seen. Gloria wins by attention, not force.
+**Why readers come back.** One case solved per book, every clue in ink on a page the reader has already seen, and one more refused signer for the thread.
 
-**What makes it different.** No badge, no law license, no gun: a seal, a journal, and the power to say no.
+**What makes it different.** No badge, no law license: a seal and a journal a court will read.
